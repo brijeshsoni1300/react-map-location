@@ -1,0 +1,23 @@
+{
+  "name": "react-location",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "keyur kakadiya",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kakadiyakeyur53/react-location.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kakadiyakeyur53/react-location/issues"
+  },
+  "homepage": "https://github.com/kakadiyakeyur53/react-location#readme",
+  "description": ""
+}
