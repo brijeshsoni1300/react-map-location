@@ -1,5 +1,5 @@
 {
-  "name": "react-location",
+  "name": "react-map-location",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -13,11 +13,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kakadiyakeyur53/react-location.git"
+    "url": "git+https://github.com/kakadiyakeyur53/react-map-location.git"
   },
   "bugs": {
-    "url": "https://github.com/kakadiyakeyur53/react-location/issues"
+    "url": "https://github.com/kakadiyakeyur53/react-map-location/issues"
   },
-  "homepage": "https://github.com/kakadiyakeyur53/react-location#readme",
+  "homepage": "https://github.com/kakadiyakeyur53/react-map-location#readme",
   "description": ""
 }
