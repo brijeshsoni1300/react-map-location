@@ -1,12 +1,12 @@
 {
   "name": "react-map-location",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "keyur kakadiya",
-  "license": "ISC",
+  "license": "MIT",
   "peerDependencies": {
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
@@ -19,5 +19,23 @@
     "url": "https://github.com/kakadiyakeyur53/react-map-location/issues"
   },
   "homepage": "https://github.com/kakadiyakeyur53/react-map-location#readme",
-  "description": ""
+  "description": "provide simple google location based features",
+  "keywords": [
+    "react-map",
+    "react-location",
+    "react-route",
+    "react-current-location",
+    "react-weather",
+    "weather",
+    "cityinfo",
+    "react-latlong",
+    "location",
+    "map",
+    "js",
+    "city-temp",
+    "current-location",
+    "here-map",
+    "location-search",
+    "searching"
+  ]
 }
