@@ -1,7 +1,7 @@
-import CurrentLocation from "./CurrentLocation";
+import CurrentLocation from "./component/CurrentLocation";
 import CityInfo from "./component/CityInfo";
-import LocationInfo from "./LocationInfo";
-import CityWeather from "./CityWeather";
-import LocationWeather from "./LocationWeather";
+import LocationInfo from "./component/LocationInfo";
+import CityWeather from "./component/CityWeather";
+import LocationWeather from "./component/LocationWeather";
 
 export { CurrentLocation, CityInfo, LocationInfo, CityWeather, LocationWeather};

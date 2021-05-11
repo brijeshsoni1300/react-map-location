@@ -18,6 +18,7 @@ const CurrentLocation = () => {
     LocationData();
   }, []);
 
+  //return coordinates
   return coordinates;
 };
 
